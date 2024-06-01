@@ -29,8 +29,8 @@
 ## 📱 About this Project
 
 <p align="center">
-<img alt="Screenshot of the Website" src="https://github.com/atthmew/pig-game/blob/main/screenshots/pig-game1.png" height="350px" width="400px" /> 
-<img alt="Screenshot of the Website" src="https://github.com/atthmew/pig-game/blob/main/screenshots/pig-game2.png" height="350px" width="400px" /> 
+<img alt="Screenshot of the Website" src="https://github.com/atthmew/guess-my-number/blob/main/screenshots/guess-my-number1.png" height="350px" width="400px" /> 
+<img alt="Screenshot of the Website" src="https://github.com/atthmew/guess-my-number/blob/main/screenshots/guess-my-number2.png" height="350px" width="400px" /> 
 <br/>
 </h1>
   <button>
