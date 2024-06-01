@@ -10,9 +10,9 @@
 
 <p align="center">
   <!-- <img alt="Project Top Language" src="https://img.shields.io/badge/98.2%25-yellow?style=for-the-badge&logo=javascript&label=JavaScript&labelColor=black"> -->
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/atthmew/pig-game?style=for-the-badge">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/atthmew/pig-game?style=for-the-badge">
-  <img alt="Project Top Language" src="https://img.shields.io/github/last-commit/atthmew/pig-game?style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/atthmew/guess-my-number?style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/atthmew/guess-my-number?style=for-the-badge">
+  <img alt="Project Top Language" src="https://img.shields.io/github/last-commit/atthmew/guess-my-number?style=for-the-badge">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/atthmew/pig-game?style=for-the-badge">
 </p>
 
