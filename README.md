@@ -34,8 +34,8 @@
 <br/>
 </h1>
   <button>
-    <a href="https://atthmew.github.io/pig-game/" target="_blank" > 
-      <img alt="Project Top Language" src="https://img.shields.io/badge/Pig Game-white?style=for-the-badge&label=PlayHere&labelColor=black"/>
+    <a href="https://atthmew.github.io/guess-my-number/" target="_blank" > 
+      <img alt="Project Top Language" src="https://img.shields.io/badge/Guess My Number-white?style=for-the-badge&label=PlayHere&labelColor=black"/>
     </a>
   </button>
 </p>
